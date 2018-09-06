@@ -53,3 +53,6 @@ console.error
 console.error(HALP!)
 concole.error()
 console.error()
+var word
+word = 'bird'
+console.log(word) 
